@@ -1,0 +1,17 @@
+{
+    "discord": {
+        "token": "OTc4Mjc5NjMzODk0MTQxOTgy.GYdCcz.9ONqxoOTEI9xUKWt0pn9VAFGGpLPuCVKFdkq_A",
+        "id": "978279633894141982"
+    },
+    "applications_commands": {
+        "global": true,
+        "guild_id": ""
+    },
+    "database": {
+        "enabled": false,
+        "url": ""
+    },
+    "express": {
+        "port": 3000
+    }
+}
