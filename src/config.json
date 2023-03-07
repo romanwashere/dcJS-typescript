@@ -1,7 +1,7 @@
 {
     "discord": {
-        "token": "OTc4Mjc5NjMzODk0MTQxOTgy.GYdCcz.9ONqxoOTEI9xUKWt0pn9VAFGGpLPuCVKFdkq_A",
-        "id": "978279633894141982"
+        "token": "token",
+        "id": "application_id"
     },
     "applications_commands": {
         "global": true,
